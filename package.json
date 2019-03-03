@@ -1,8 +1,8 @@
 {
-    "name": "emby.defaulttheme",
-    "displayName": "Default Theme",
+    "name": "unity.mb",
+    "displayName": "Unity-MB",
     "version": "1.0.0",
-    "description": "The default Emby theme.",
+    "description": "Unity-MB TV",
     "plugin": "plugin.js",
     "homepage": "https://github.com/MediaBrowser/emby-web-defaulttheme",
     "thumb": "",
